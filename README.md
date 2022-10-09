@@ -4,5 +4,5 @@ Download composer terlebih dahulu dengan mengetikkan "composer create-project la
 Buat file baru dengan nama "CollectionController" dengan cara mengetikkan perintah di cmd "php artisan make: contoller CollectionController".
 Copy paste file "CollectionController" ke folder "App" => "Http" => "Controller" => "CollectionController".
 Copy paste file "web.php" ke folder "routes".
-Buka di web browser dengan mengetikkan "localhost:8000/lima"
+Buka di web browser dengan mengetikkan "localhost:8000/enam"
 Terima kasih.
